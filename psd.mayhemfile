@@ -1,0 +1,5 @@
+project: rust-psd
+target: psd
+
+cmds:
+  - cmd: /psd
